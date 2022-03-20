@@ -24,7 +24,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3411118315456852112}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -2.27, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 6171287537216027506}
@@ -106,7 +106,7 @@ GameObject:
   - component: {fileID: 1745080222519619290}
   - component: {fileID: 4416042236234797253}
   m_Layer: 0
-  m_Name: Plane
+  m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -120,8 +120,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7304211428287291348}
   m_LocalRotation: {x: -0, y: 0, z: -0, w: 1}
-  m_LocalPosition: {x: 8.5519495, y: -1.9, z: 10.445421}
-  m_LocalScale: {x: 1.7855, y: 1, z: 4.700304}
+  m_LocalPosition: {x: 0, y: -2.27, z: 15.73}
+  m_LocalScale: {x: 3.0785203, y: 1, z: 3.6296415}
   m_Children: []
   m_Father: {fileID: 7097783842852674366}
   m_RootOrder: 2
@@ -203,7 +203,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7623385119722422660}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.7455397, y: 10.952118, z: 16.953959}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 2439343172538047099}
