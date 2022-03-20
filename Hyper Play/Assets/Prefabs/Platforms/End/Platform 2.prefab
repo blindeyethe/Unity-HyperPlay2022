@@ -126,7 +126,7 @@ GameObject:
   - component: {fileID: 6811290095015700603}
   - component: {fileID: 8777489378715655317}
   m_Layer: 0
-  m_Name: Destroy Trigger
+  m_Name: Finish Trigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
