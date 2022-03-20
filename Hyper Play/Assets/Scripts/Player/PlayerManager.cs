@@ -32,7 +32,7 @@ public class PlayerManager : MonoBehaviour
         _animator.SetBool("Running", true);
     }
 
-    private void PlayerCelebrate()
+    private void PlayerCelebrate(bool temp)
     {
         DisableController();
         _animator.SetBool("Win", true);

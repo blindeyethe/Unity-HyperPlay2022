@@ -39,7 +39,7 @@ MonoBehaviour:
   - prefab: {fileID: 7623385119722422660, guid: 15b51ebf5bf8d8f46b96f44256e008ed, type: 3}
     chance: 56.1
   endPlatforms:
-  - prefab: {fileID: 7623385119722422660, guid: c8390172651c00d4fbbd26733022584d, type: 3}
+  - prefab: {fileID: 7623385119722422660, guid: eae38d8147dcafc47a7e5a7f66cb86a3, type: 3}
     chance: 100
   bossPlatforms:
   - prefab: {fileID: 7623385119722422660, guid: a82b7590a4fbebc47a65f6caf5205683, type: 3}
