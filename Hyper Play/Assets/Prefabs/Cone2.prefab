@@ -12,9 +12,10 @@ GameObject:
   - component: {fileID: 2919352065359427399}
   - component: {fileID: 1109970687107122061}
   - component: {fileID: 5520943825172379242}
+  - component: {fileID: 8996779928833238501}
   m_Layer: 0
   m_Name: Cone2
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -91,8 +92,20 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1470306555553538648}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 2.6520643, y: 2.8598635, z: 2.6520643}
   m_Center: {x: -0.00847888, y: 1.4213663, z: 0.016908228}
+--- !u!114 &8996779928833238501
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1470306555553538648}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4ba8ca2e2cde734e86cdc7003bba32b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
