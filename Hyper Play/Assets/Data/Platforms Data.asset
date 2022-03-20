@@ -19,6 +19,8 @@ MonoBehaviour:
     chance: 50
   - prefab: {fileID: 7623385119722422660, guid: 6e16b9d3af0afc94f994f30a1a4780f3, type: 3}
     chance: 100
+  - prefab: {fileID: 7623385119722422660, guid: 15b51ebf5bf8d8f46b96f44256e008ed, type: 3}
+    chance: 58.1
   middlePlatforms:
   - prefab: {fileID: 7623385119722422660, guid: 0b5b1dc125bfd0e4bb875f699f75d91d, type: 3}
     chance: 47.8
@@ -32,9 +34,9 @@ MonoBehaviour:
     chance: 27.1
   - prefab: {fileID: 7623385119722422660, guid: c261de08e37a8b1428161177b8968785, type: 3}
     chance: 45.1
-  - prefab: {fileID: 7623385119722422660, guid: 350e06b6ce97c464db0977df9cc70202, type: 3}
+  - prefab: {fileID: 7623385119722422660, guid: 15b51ebf5bf8d8f46b96f44256e008ed, type: 3}
     chance: 56.1
-  - prefab: {fileID: 7623385119722422660, guid: 350e06b6ce97c464db0977df9cc70202, type: 3}
+  - prefab: {fileID: 7623385119722422660, guid: 15b51ebf5bf8d8f46b96f44256e008ed, type: 3}
     chance: 56.1
   endPlatforms:
   - prefab: {fileID: 7623385119722422660, guid: c8390172651c00d4fbbd26733022584d, type: 3}
